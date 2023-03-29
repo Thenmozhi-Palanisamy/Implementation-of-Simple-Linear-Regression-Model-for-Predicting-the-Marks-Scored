@@ -82,7 +82,8 @@ print('MAE = ',mae)
 rmse = np.sqrt(mse)
 print('RMSE',rmse)
 
-## Output:
+```
+### Output:
 ![output](./ml 1.png)
 ![output](./ml2.png)
 ![output](./ml3.png)
