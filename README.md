@@ -84,12 +84,12 @@ print('RMSE',rmse)
 
 ```
 ### Output:
-![output](./ml 1.png)
+![output](./ml1.png)
 ![output](./ml2.png)
 ![output](./ml3.png)
 ![output](./ml4.png)
 ![output](./ml5.png)
-![output](./ml 6.png)
+![output](./ml6.png)
 ![output](./ml7.png)
 ![output](./ml8.png)
 ![output](./ml9.png)
