@@ -84,15 +84,34 @@ print('RMSE',rmse)
 
 ```
 ### Output:
-![output](./ml1.png)
-![output](./ml2.png)
-![output](./ml3.png)
-![output](./ml4.png)
-![output](./ml5.png)
-![output](./ml6.png)
-![output](./ml7.png)
-![output](./ml8.png)
-![output](./ml9.png)
+df.head():
+![image](https://user-images.githubusercontent.com/95198708/234175620-6e41e59f-bcf4-40fa-a0b5-5be8ac2ff6ec.png)
+
+df.tail():
+![image](https://user-images.githubusercontent.com/95198708/234175675-2371bfee-e731-43bd-9cb6-b98d0b35da69.png)
+
+x values:
+![image](https://user-images.githubusercontent.com/95198708/234175720-8da2d4a5-1adf-4b42-a95e-0f67a5ff87f1.png)
+
+y values:
+![image](https://user-images.githubusercontent.com/95198708/234175775-6cc459b9-32eb-4d40-aa2e-e972f2f0ea55.png)
+
+y_pred
+![image](https://user-images.githubusercontent.com/95198708/234175830-b22fb7f4-8316-432d-a6e4-4f1b527307d5.png)
+
+y_test:
+![image](https://user-images.githubusercontent.com/95198708/234175866-44bc98f5-e4e2-4e86-bc39-a4b0e5c10d32.png)
+
+Graph of training data:
+![image](https://user-images.githubusercontent.com/95198708/234175905-9cbf29f3-8104-4c6d-88a9-ee843440daf9.png)
+
+Graph of test data:
+![image](https://user-images.githubusercontent.com/95198708/234175973-bb058dc3-dd3b-4be6-aebc-53814a746953.png)
+
+
+Values of MSE, MAE, RMSE:
+![image](https://user-images.githubusercontent.com/95198708/234175437-52a6a249-7a9e-4526-b07d-073779578b66.png)
+
 
 
 ## Result:
